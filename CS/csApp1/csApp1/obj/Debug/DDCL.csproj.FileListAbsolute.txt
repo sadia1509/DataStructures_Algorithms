@@ -1,0 +1,6 @@
+D:\Programs_D\VS\workshop\CS\csApp1\csApp1\bin\Debug\csApp1.exe.config
+D:\Programs_D\VS\workshop\CS\csApp1\csApp1\bin\Debug\csApp1.exe
+D:\Programs_D\VS\workshop\CS\csApp1\csApp1\bin\Debug\csApp1.pdb
+D:\Programs_D\VS\workshop\CS\csApp1\csApp1\obj\Debug\DDCL.csproj.CoreCompileInputs.cache
+D:\Programs_D\VS\workshop\CS\csApp1\csApp1\obj\Debug\csApp1.exe
+D:\Programs_D\VS\workshop\CS\csApp1\csApp1\obj\Debug\csApp1.pdb
